@@ -1,7 +1,7 @@
 import * as winston from 'winston';
 
 export class LoggerService {
-    public logger;
+    public logger: winston.Logger;
 
     constructor() {
         // Winston logger setup

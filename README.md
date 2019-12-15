@@ -9,7 +9,7 @@ Boilerplate for typescript development with vscode debugging av default build sc
 * Winston logger service
 
 ### Logging levels
-| Level | Order |
+| Syntax | Level |
 | ----- | ----- |
 | error | 0 |
 | warn | 1 |

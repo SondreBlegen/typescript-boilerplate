@@ -20,7 +20,7 @@ export class Run {
         const foo = this._testSVC.testService('Sondre');
 
         // Logging the response from the test service
-        this._logger.error(foo);
+        this._logger.info(foo);
 
     }
 }
