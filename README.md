@@ -10,6 +10,7 @@ Boilerplate for typescript development with vscode debugging av default build sc
 
 ### Logging levels
 | Level | Order |
+| ----- | ----- |
 | error | 0 |
 | warn | 1 |
 | info | 2 |
